@@ -1,22 +1,22 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
+  - Strong and weak sides of node.js: 🔬 researched
   - Stateful and stateless servers: 🎓 known
-  - Nonblocking I/O and slocking code: 🎓 known
-  - Event loop: phases: 🙋 explained
-  - Event loop: microtasks and macrotasks: 🙋 explained
+  - Nonblocking I/O and slocking code: 🙋 explained
+  - Event loop: phases: 🔬 researched
+  - Event loop: microtasks and macrotasks: 🔬 researched
   - Garbage collectione: 🎓 known
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies: 🎓 known
-  - CommonJS modules: 🎓 known
-  - ECMAScript modules: 🎓 known
-  - node:module: 🎓 known
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
+  - node:module: 🙋 explained
   - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 👂 heard
-  - Contexts and scripts node:vm: 👂 heard
+  - Contexts and scripts node:vm: 🙋 explained
   - Dependencies: npm, node_modules: 🙋 explained
   - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model: 👂 heard
@@ -30,7 +30,7 @@
   - Node.js CLI: 🙋 explained
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
-  - Clustering: 👂 heard
+  - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API: 🖐 used
@@ -40,7 +40,7 @@
   - Web Crypto API: 👂 heard
   - File system API: sync and async: 🖐 used
   - Copy folder recursively: 👂 heard
-  - Worker threads: 👂 heard
+  - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🖐 used
   - node:async_hooks: 👂 heard
@@ -50,8 +50,8 @@
   - Node.js single executable: 🎓 known
   - Stream back pressure: 👂 heard
   - SharedArrayBuffer: 👂 heard
-  - node:worker_threads: 👂 heard
-  - node:child_process: 👂 heard
+  - node:worker_threads: 🎓 known
+  - node:child_process: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 🖐 used
@@ -66,9 +66,9 @@
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
   - Dependency injection: 👂 heard
-  - GRASP: 🖐 used
-  - SOLID: 🖐 used
-  - GoF patterns: 🖐 used
+  - GRASP: 🔬 researched
+  - SOLID: 🔬 researched
+  - GoF patterns: 🔬 researched
   - Distributed systems: 👂 heard
   - Highload applications: 👂 heard
   - Clean architecture: 🎓 known
@@ -80,8 +80,8 @@
   - Load balancing: 👂 heard
   - Serverless clouds: 👂 heard
   - FaaS clouds: 👂 heard
-  - Fat controller: 👂 heard
-  - GoF for Node.js: 👂 heard
+  - Fat controller: 🙋 explained
+  - GoF for Node.js: 🔬 researched
   - Leaking abstractions: 👂 heard
 - Network
   - IP sticky sessions: 🎓 known
@@ -90,20 +90,20 @@
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS: 🎓 known
-  - Websocket: 👂 heard
+  - Websocket: 🙋 explained
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
-  - Long polling: 👂 heard
-  - REST: 🖐 used
+  - Long polling: 🙋 explained
+  - REST: 🙋 explained
   - RPC: 🎓 known
-  - Routing: 🎓 known
+  - Routing: 🙋 explained
   - DoS: 🎓 known
-  - DDoS: 🎓 known
-  - XSS: 🎓 known
+  - DDoS: 🙋 explained
+  - XSS: 🙋 explained
   - Path traversal: 👂 heard
   - CSRF: 🎓 known
   - DNS: 🎓 known
-  - Fetch API: 🖐 used
+  - Fetch API: 🙋 explained
   - IncomingMessage: 👂 heard
   - SQL injection: 👂 heard
   - noDelay: 👂 heard
@@ -114,16 +114,16 @@
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
-  - Logging: 🎓 known
+  - Logging: 🙋 explained
   - Application configuring: 🎓 known
-  - Testing: 🖐 used
-  - CI/CD: 🖐 used
-  - Readable: 🎓 known
-  - Writable: 🎓 known
-  - Transform: 🎓 known
+  - Testing: 🙋 explained
+  - CI/CD: 🙋 explained
+  - Readable: 🖐 used
+  - Writable: 🖐 used
+  - Transform: 🖐 used
   - back pressure: 👂 heard
-  - Buffer: 🎓 known
-  - Console: 🎓 known
+  - Buffer: 🖐 used
+  - Console: 🙋 explained
   - Inspector: 👂 heard
   - Reliability: 🎓 known
   - Quality: 🎓 known

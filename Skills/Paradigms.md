@@ -42,25 +42,25 @@
   - Introspection: 🙋 explained
   - Reflection: 🙋 explained
 - Patterns
-  - Singleton: 🙋 explained
-  - Factory Method: 🙋 explained
-  - Abstract Factory: 🙋 explained
-  - Adapter: 🙋 explained
-  - Observer: 🙋 explained
-  - Strategy: 🙋 explained
-  - Facade: 🙋 explained
-  - Proxy: 🙋 explained
-  - Chain of Responsibility: 🙋 explained
-  - Command: 🙋 explained
-  - Iterator: 🙋 explained
-  - State: 🙋 explained
-  - Bridge: 🙋 explained
-  - Builder: 🙋 explained
-  - Prototype: 🙋 explained
-  - Composite: 🙋 explained
-  - Decorator: 🙋 explained
-  - Flyweight: 🙋 explained
-  - Mediator: 🙋 explained
-  - Memento: 🙋 explained
-  - Template Method: 🙋 explained
-  - Visitor: 🙋 explained
+  - Singleton: 🚀 constructed
+  - Factory Method: 🔬 researched
+  - Abstract Factory: 🔬 researched
+  - Adapter: 🚀 constructed
+  - Observer: 🔬 researched
+  - Strategy: 🔬 researched
+  - Facade: 🔬 researched
+  - Proxy: 🔬 researched
+  - Chain of Responsibility
+  - Command: 🔬 researched
+  - Iterator: 🔬 researched
+  - State: 🔬 researched
+  - Bridge: 🔬 researched
+  - Builder: 🔬 researched
+  - Prototype: 🔬 researched
+  - Composite: 🔬 researched
+  - Decorator: 🚀 constructed
+  - Flyweight: 🔬 researched
+  - Mediator: 🔬 researched
+  - Memento: 🔬 researched
+  - Template Method: 🔬 researched
+  - Visitor: 🔬 researched

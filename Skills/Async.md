@@ -1,18 +1,18 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🙋 explained
+  - Event loop: 🔬 researched
   - try..catch: 🙋 explained
   - Non-blocking: 🙋 explained
   - Async I/O: 🙋 explained
   - Thread pool: 👂 heard
-  - Pattern Reactor: 🎓 known
+  - Pattern Reactor: 🔬 researched
   - CAS operations: 👂 heard
   - epoll: 🎓 known
   - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 🖐 used
+  - libuv: 🙋 explained
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
@@ -48,7 +48,7 @@
   - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐 used
-  - Observable/Observer: 🖐 used
+  - Observable/Observer: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -64,8 +64,8 @@
   - nextTick: 🎓 known
   - AbortController: 🖐 used
   - AbortSignal: 👂 heard
-  - Promise unhandled rejection: 🎓 known
-  - Promise double resolve: 🎓 known
+  - Promise unhandled rejection: 🙋 explained
+  - Promise double resolve: 🙋 explained
   - child_process: 🎓 known
   - worker_threads: 🎓 known
   - Atomics: 👂 heard
@@ -84,10 +84,10 @@
   - async.js library: 👂 heard
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
-  - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard
