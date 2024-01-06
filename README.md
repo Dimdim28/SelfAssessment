@@ -7,6 +7,8 @@
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
+- [SQL](Skills/SQL.md)
+- [React](Skills/React.md)
 
 ## How to use
 
