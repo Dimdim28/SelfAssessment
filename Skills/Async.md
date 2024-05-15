@@ -36,16 +36,16 @@
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: 🖐 used
+  - Stream: 🖐: 🖐️ used
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
   - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify: 🎓 known
-  - promisify: 🎓 known
-  - asyncify: 🎓 known
-  - callbacks compose: 👂 heard
-  - async compose: 👂 heard
+  - callbackify
+  - promisify
+  - asyncify
+  - Callbacks compose
+  - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🖐 used
   - Observable/Observer: 🙋 explained
@@ -66,8 +66,6 @@
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🙋 explained
   - Promise double resolve: 🙋 explained
-  - child_process: 🎓 known
-  - worker_threads: 🎓 known
   - Atomics: 👂 heard
   - High resolution clock: 👂 heard
   - Callback hell: 🙋 explained
@@ -76,8 +74,6 @@
   - Error handling in async code: 🖐 used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
@@ -92,3 +88,4 @@
   - IPC: 👂 heard
   - Channel API: 👂 heard
   - Revealing Constructor: 👂 heard
+
