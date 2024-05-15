@@ -36,7 +36,7 @@
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: 🖐 used
+  - Stream: 🖐: 🖐️ used
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
   - Locks: 👂 heard
@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
-  - Observable/Observer: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
+  - Observable/Observer: 🖐: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
