@@ -18,7 +18,7 @@
   - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`: 🙋 explained
   - Dependencies: `npm`, `node_modules`: 🙋 explained
-  - Files `package.json`, `package-lock.json` 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 👂 heard
   - Dependency injection: 👂 heard
@@ -33,16 +33,16 @@
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 🖐 used
-  - Web Streams API: 🖐 used
-  - Crypto API: 🖐 used
-  - Password hashing with node:crypto.scrypt: 🖐 used
+  - Streams API: 🖐: 🖐️ used
+  - Web Streams API: 🖐: 🖐️ used
+  - Crypto API: 🖐: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐 used
+  - File system API: sync and async: 🖐: 🖐️ used
   - Copy folder recursively: 👂 heard
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 🖐 used
+  - Native fetch and nodejs/undici: 🖐: 🖐️ used
   - node:async_hooks: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
@@ -54,18 +54,17 @@
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐 used
+  - Generating crypto random UUID: 🖐: 🖐️ used
   - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`: 👂 heard
   - Internationalization: 👂 heard
-  - Blob, File, Buffer, module `node:buffer`: 🖐 used
+  - Blob, File, Buffer, module `node:buffer`: 🖐: 🖐️ used
   - Module `node:zlib`: 👂 heard
 - Application structure and architecture: 👂 heard
   - Isolation between layer: 👂 heard
   - Multilayer approach: 👂 heard
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
   - GRASP: 🔬 researched
   - SOLID: 🔬 researched
   - GoF patterns: 🔬 researched
@@ -117,11 +116,11 @@
   - Application configuring: 🎓 known
   - Testing: 🙋 explained
   - CI/CD: 🙋 explained
-  - Readable: 🖐 used
-  - Writable: 🖐 used
-  - Transform: 🖐 used
+  - Readable: 🖐: 🖐️ used
+  - Writable: 🖐: 🖐️ used
+  - Transform: 🖐: 🖐️ used
   - Back pressure: 👂 heard
-  - Buffer: 🖐 used
+  - Buffer: 🖐: 🖐️ used
   - Console: 🙋 explained
   - Inspector: 👂 heard
 - Data access

@@ -19,7 +19,7 @@
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 🎓 known
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
   - Observable/Observer: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
@@ -62,7 +62,7 @@
   - Timers: 🙋 explained
   - setImmediate: 🎓 known
   - nextTick: 🎓 known
-  - AbortController: 🖐 used
+  - AbortController: 🖐: 🖐️ used
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🙋 explained
   - Promise double resolve: 🙋 explained
@@ -71,7 +71,7 @@
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐 used
+  - Error handling in async code: 🖐: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
   - AsyncLocalStorage: 👂 heard
@@ -88,4 +88,3 @@
   - IPC: 👂 heard
   - Channel API: 👂 heard
   - Revealing Constructor: 👂 heard
-
