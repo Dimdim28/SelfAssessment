@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object: 🙋 explained
-  - this: 🔬 researched
-  - arrow function: 🔬 researched
-  - async function: 🙋 explained
-  - call: 🙋 explained
-  - bind: 🙋 explained
-  - apply: 🙋 explained
-  - instanceof: 🙋 explained
-  - ...spread: 🙋 explained
-  - ...rest: 🙋 explained
-  - typeof: 🙋 explained
-  - destructuring: 🙋 explained
-  - generator: 🚀 constructed
-  - iterator: 🚀 constructed
-  - async generator: 🔬 researched
-  - async iterator: 🔬 researched
-  - chaining: 🚀 constructed
-  - optional chaining: 🔬 researched
-  - IIFE: 🙋 explained
-  - global: 🙋 explained
-  - globalThis: 🙋 explained
-  - window: 🙋 explained
-  - getters and setters: 🙋 explained
-  - __proto__: 🔬 researched
-  - prototype: 🔬 researched
-  - equality operators: 🙋 explained
-  - logical operators: 🙋 explained
-  - bitwise operators: 🙋 explained
-  - ternary operator: 🙋 explained
-  - void: 🙋 explained
-  - yield: 🙋 explained
-  - await: 🙋 explained
-  - template literal: 🙋 explained
-  - strict mode: 🙋 explained
-  - delete: 🙋 explained
-  - in: 🙋 explained
-  - super: 🙋 explained
-  - Symbol: 🔬 researched
-  - Reflect: 🙋 explained
+  - `Object`
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`
+  - `null`
+  - `this`
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
+  - IIFE
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators
+  - Logical operators
+  - Logical Assignment
+  - Bitwise operators
+  - Ternary operator
+  - `void`
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if: 🙋 explained
-  - while: 🙋 explained
-  - do..while: 🙋 explained
-  - for: 🙋 explained
-  - for..in: 🙋 explained
-  - for..of: 🙋 explained
-  - for await: 🙋 explained
-  - throw: 🙋 explained
-  - break: 🙋 explained
-  - continue: 🙋 explained
-  - import: 🙋 explained
-  - export: 🙋 explained
-  - label: 🙋 explained
-  - try..catch: 🙋 explained
-  - switch: 🙋 explained
-  - class: 🙋 explained
-  - new Error: 🙋 explained
-  - with: 👂 heard
+  - `if`
+  - `while`
+  - `do..while`
+  - `for`
+  - `for..in`
+  - `for..of`
+  - `for await`
+  - `throw`
+  - `break`
+  - `continue`
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch`
+  - `switch`
+  - `class`
+  - `extends`
+  - `with`
+  - `new`
 - Functions
-  - function declaration: 🙋 explained
-  - function expression: 🙋 explained
-  - return: 🙋 explained
-  - default parameters: 🙋 explained
-  - functional object: 🎓 known
+  - Arrow function
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
 - Data structures
-  - Array: 🙋 explained
-  - mixin: 🙋 explained
-  - extend: 🙋 explained
-  - typed arrays: 🙋 explained
-  - Map: 🙋 explained
-  - Set: 🙋 explained
-  - undefined: 🙋 explained
-  - null: 🙋 explained
-  - Proxy: 🙋 explained
-  - weak collections: 🙋 explained
-  - timers: 🙋 explained
-  - EventEmitter: 🙋 explained
-  - RegExp: 🙋 explained
-  - Date: 🙋 explained
-  - BigInt: 🙋 explained
+  - `Array`
+  - `Map`
+  - `Set`
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
 - Infrastructure
-  - V8: 🔬 researched
-  - Node.js: 🔬 researched
-  - npm: 🙋 explained
-  - prettier: 🙋 explained
-  - MDN: 🙋 explained
+  - V8
+  - Node.js
+  - npm
+  - prettier
+  - MDN
+  - TC39
