@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
+  - Singleton: 🚀 constructed
+  - Factory Method: 🔬 researched
+  - Abstract Factory: 🔬 researched
+  - Adapter: 🚀 constructed
+  - Observer: 🔬 researched
+  - Strategy: 🔬 researched
+  - Facade: 🔬 researched
+  - Proxy: 🔬 researched
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Command: 🔬 researched
+  - Iterator: 🔬 researched
+  - State: 🔬 researched
+  - Bridge: 🔬 researched
+  - Builder: 🔬 researched
+  - Prototype: 🔬 researched
+  - Composite: 🔬 researched
+  - Decorator: 🚀 constructed
+  - Flyweight: 🔬 researched
+  - Mediator: 🔬 researched
+  - Memento: 🔬 researched
+  - Template Method: 🔬 researched
+  - Visitor: 🔬 researched
+  - Reactor: 🚀 constructed
+  - Active object: 🔬 researched
+  - Delegation: 🚀 constructed

@@ -47,6 +47,12 @@
   - useRef: 🙋 explained
   - useCallback: 🙋 explained
   - useMemo: 🙋 explained
+  - useTransition: 🙋 explained
+  - useDefferedValue: 🙋 explained
+  - useLayoutEffect: 🙋 explained
+  - useId: 🙋 explained
+  - useDebugValue: 🙋 explained
+  - useImperativeHandle: 🙋 explained
   - Custom Hooks: 🙋 explained
 - Antipatterns
   - Props drilling: 🔬 researched
@@ -69,6 +75,10 @@
   - Formik: 🖐️ used
   - Babel: 🖐️ used
   - Sass: 🖐️ used
+  - Tailwind: 🖐️ used
+  - Styled Components: 🖐️ used
+  - Next: 🖐️ used
+  - Vite: 🖐️ used
   - Webpack: 🖐️ used
   - Hook form: 🖐️ used
   - React DevTools: 🖐️ used
@@ -76,3 +86,10 @@
   - Jest: 🖐️ used
   - React Testing Library: 🖐️ used
   - Reselect: 🖐️ used
+- React Native
+  - Crossplatform Components (View, Text, Image, Picker, etc.): 🖐️ used
+  - IOS Components (TabBarIOS, ActionSheetIOS, etc.): 🖐️ used
+  - Android components (Android: BackAndroid, ToolbarAndroid, etc.): 🖐️ used
+  - Navigator: 🖐️ used
+  - Styles in React native: 🖐️ used
+  - <Animated.View>, <Animated.Image>, <Animated.Text>: 🖐️ used
