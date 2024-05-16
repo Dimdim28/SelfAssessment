@@ -125,42 +125,42 @@
   - Console: 🙋 explained
   - Inspector: 👂 heard
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Data access layer: 🖐 used
+  - Repository: 🖐 used
+  - Active record: 🖐 used
+  - Query builder: 🖐 used
+  - Object-Relational Mapping: 🖐 used
+  - CRUD: 🖐 used
+  - DTO: 🖐 used
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - `Error`: 🖐 used
+  - `error.cause`: 🖐 used
+  - `error.code`: 🖐 use
+  - `error.message`: 🖐 used
+  - `error.stack`: 🖐 used
+  - `Error.captureStackTrace`: 🖐 used
+  - How to avoid mixins: 🖐 used
+  - Uncaught exceptions: 🖐 used
+  - Heap dump: 👂 heard
+  - Debugging tools: 🖐 used
+  - Flame graph: 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - `C` and `C++` addons: 🎓 known
+  - `Rust` addons: 👂 heard
+  - `Zig` addons: 👂 heard
+  - NAN (Native Abstractions for Node.js): 👂 heard
+  - Node-API (formerly N-API): 🎓 known
+  - NAPI `C` and `C++`: 🎓 known
+  - NAPI `Rust`: 👂 heard
+  - NAPI `Zig`: 👂 heard
+  - Webassembly `WAT`: 🎓 known
+  - Webassembly `C` and `C++`: 🎓 known
+  - Webassembly `Rust`: 👂 heard
+  - Webassembly `Zig`: 👂 heard
+  - Webassembly `AssemblyScript`: 👂 heard
+  - Shared memory: 🎓 known
+  - V8 binary serialization: 👂 heard

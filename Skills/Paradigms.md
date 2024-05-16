@@ -1,68 +1,68 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 🎓 known
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
+  - Functional-reactive (FRP): 🎓 known
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
+  - Actor model: 🎓 known
+  - Lambda calculus: 🎓 known
+  - Black box: 🎓 known
+  - Information hiding: 🎓 known
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 🎓 known
+  - Class composition: 🎓 known
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Constructor: 🎓 known
+  - Operator `new`: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
+  - Instance: 🎓 known
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 🎓 known
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🚀 constructed
   - Factory Method: 🔬 researched
