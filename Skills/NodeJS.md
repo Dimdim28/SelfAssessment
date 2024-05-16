@@ -33,10 +33,10 @@
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 🖐 used
+  - Streams API: 🖐: 🖐️ used
   - Web Streams API: 🙋 explained
-  - Crypto API: 🖐 used
-  - Password hashing with node:crypto.scrypt: 🖐 used
+  - Crypto API: 🖐: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API: sync and async: 🙋 explained
   - Copy folder recursively: 👂 heard
@@ -54,7 +54,7 @@
   - Module `node:child_process`: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐 used
+  - Generating crypto random UUID: 🖐: 🖐️ used
   - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`: 👂 heard
   - Internationalization: 👂 heard
@@ -65,7 +65,6 @@
   - Multilayer approach: 👂 heard
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
-  - Dependency injection: 🔬 researched
   - GRASP: 🔬 researched
   - SOLID: 🔬 researched
   - GoF patterns: 🔬 researched

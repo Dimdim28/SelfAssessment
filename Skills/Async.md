@@ -47,7 +47,7 @@
   - Callbacks compose: 🎓 known
   - Async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
   - Observable/Observer: 🙋 explained
   - Readable: 🔬 researched
   - Writable: 🔬 researched
@@ -59,11 +59,11 @@
   - Mutex: 🚀 constructed
   - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
-  - Timers: 🖐 used
-  - setImmediate: 🖐 used
-  - nextTick: 🖐 used
-  - AbortController: 🖐 used
-  - AbortSignal: 🖐 used
+  - Timers: 🖐: 🖐️ used
+  - setImmediate: 🖐: 🖐️ used
+  - nextTick: 🖐: 🖐️ used
+  - AbortController: 🖐: 🖐️ used
+  - AbortSignal: 🖐: 🖐️ used
   - Promise unhandled rejection: 🔬 researched
   - Promise double resolve: 🔬 researched
   - Atomics: 🚀 constructed
@@ -78,7 +78,7 @@
   - AsyncResource: 🔬 researched
 - Techniques
   - async.js library: 👂 heard
-  - RxJS library: 🖐 used
+  - RxJS library: 🖐: 🖐️ used
   - Async composition: 👂 heard
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained

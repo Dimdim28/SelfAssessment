@@ -212,13 +212,13 @@
   - Drivers: 🎓 known
   - Kernel: 👂 heard
   - Ring: 👂 heard
-  - Virtual memory: 🖐 used
-  - File system: 🖐 used
-  - Linux: 🖐 used
-  - Unix: 🖐 used
+  - Virtual memory: 🖐: 🖐️ used
+  - File system: 🖐: 🖐️ used
+  - Linux: 🖐: 🖐️ used
+  - Unix: 🖐: 🖐️ used
   - BSD: 👂 heard
   - MacOS: 👂 heard
-  - Windows: 🖐 used
+  - Windows: 🖐: 🖐️ used
   - Real-time OS: 🎓 known
   - Embedded OS: 🎓 known
 - Standards
