@@ -1,39 +1,39 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🎓 known
-  - Performance tuning: 🎓 known
-  - Migrations: 🎓 known
-  - Schema versioning: 🎓 known
-  - Backup and recovery: 🎓 known
-  - Database scalability: 🎓 known
-  - Relational databases: 🎓 known
-  - Key-value store: 🎓 known
-  - Tuple store: 🎓 known
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
+  - Schema versioning: 🖐️ used
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
+  - Tuple store: 🖐️ used
   - Graph databases: 🎓 known
   - Object databases: 🎓 known
   - Column databases: 🎓 known
   - Navigational databases: 🎓 known
   - Hierarchical databases: 🎓 known
   - In-memory databases: 🎓 known
-  - Inverted index: 🎓 known
-  - Data control language (DCL): 🎓 known
-  - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL): 🎓 known
+  - Inverted index: 🖐️ used
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
-  - Normal forms: 🖐️ used
-  - Indexing: 🖐️ used
-  - Primary keys: 🖐️ used
-  - Foreign keys: 🖐️ used
-  - Transactions: 🖐️ used
-  - Views: 🖐️ used
-  - Subqueries: 🖐️ used
-  - Stored procedures: 👂 heard
-  - SQL functions: 👂 heard
+  - Normal forms: 🙋 explained
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🙋 explained
+  - Subqueries: 🚀 constructed
+  - Stored procedures: 🚀 constructed
+  - SQL functions: 🚀 constructed
   - Materialized views: 👂 heard
-  - Replications: 👂 heard
+  - Replications: 🚀 constructed
   - Virtualization: 👂 heard
 - SQL
   - `SELECT`: 🖐️ used
@@ -71,19 +71,19 @@
   - `EXPLAIN`: 👂 heard
 - Engines
   - PostgreSQL: 👂 heard
-  - Oracle: 👂 heard
-  - MySQL: 🖐️ used
+  - Oracle: 🙋 explained
+  - MySQL: 🙋 explained
   - MariaDB: 👂 heard
   - MS SQL Server: 👂 heard
   - Redis: 👂 heard
   - Rabbit: 👂 heard
-  - MongoDB: 🖐️ used
+  - MongoDB: 🙋 explained
   - Memcached: 👂 heard
   - Riak: 👂 heard
   - DB2: 👂 heard
   - SQLite: 🖐️ used
   - DynamoDB: 👂 heard
-  - Firebase: 🖐️ used
+  - Firebase: 🙋 explained
 - Data engineering
   - Data warehousing: 👂 heard
   - Business intelligence: 👂 heard

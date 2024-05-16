@@ -1,51 +1,51 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🎓 known
-  - Components: 🎓 known
-  - Directories: 🎓 known
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
-  - GoF patterns: 🎓 known
-  - CQS: 🎓 known
-  - Leaking abstractions: 🎓 known
-  - Multiparadigm code: 🎓 known
-  - Contract programming: 🎓 known
-  - Platform-agnostic: 👂 heard
-  - Transport-agnostic: 👂 heard
-  - Framework-agnostic: 👂 heard
-  - Code coverage: 🎓 known
-  - Cohesion: 🎓 known
-  - Coupling: 🎓 known
-  - Cyclomatic complexity: 🎓 known
-  - Reliability: 🎓 known
-  - Quality: 🎓 known
-  - Availability: 🎓 known
-  - Flexibility: 🎓 known
-  - Law of Demeter (LoD): 🎓 known
+  - Modularity: 🔬 researched
+  - Components: 🔬 researched
+  - Directories: 🔬 researched
+  - GRASP: 🔬 researched
+  - SOLID: 🔬 researched
+  - GoF patterns: 🔬 researched
+  - CQS: 🔬 researched
+  - Leaking abstractions: 🔬 researched
+  - Multiparadigm code: 🔬 researched
+  - Contract programming: 🔬 researched
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🔬 researched
+  - Cohesion: 🔬 researched
+  - Coupling: 🔬 researched
+  - Cyclomatic complexity: 🔬 researched
+  - Reliability: 🔬 researched
+  - Quality: 🔬 researched
+  - Availability: 🔬 researched
+  - Flexibility: 🔬 researched
+  - Law of Demeter (LoD): 🔬 researched
 - Application architecture
-  - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL): 🎓 known
-  - System vs applied code: 🎓 known
-  - Multilayer approach: 🎓 known
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🙋 explained
   - Hexagonal architecture: 🎓 known
   - Separation of concerns (SoC): 🎓 known
-  - Metaprogramming: 🎓 known
+  - Metaprogramming: 🙋 explained
   - Inversion of control (IoC): 🎓 known
   - Dependency injection (DI): 🎓 known
-  - Clean architecture: 🎓 known
-  - Domain-driven design (DDD): 🎓 known
+  - Clean architecture: 🔬 researched
+  - Domain-driven design (DDD): 🙋 explained
   - Pub/sub: 🎓 known
   - Message brocker: 🎓 known
   - Agent: 🎓 known
   - Service locator: 🎓 known
-  - Message Queue (MQ): 🎓 known
+  - Message Queue (MQ): 🔬 researched
   - CQRS: 🎓 known
   - Event sourcing: 🎓 known
   - E-R data modeling: 🎓 known
   - Entity-relationship diagram: 🎓 known
   - IDEF1X: 👂 heard
-  - UML: 🎓 known
+  - UML: 🔬 researched
   - Work breakdown structure: 🎓 known
   - Budget estimation: 🎓 known
   - Distributed systems: 🎓 known
@@ -70,25 +70,25 @@
   - Solution components: 🎓 known
   - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR): 🎓 known
-  - Clouds: 🎓 known
+  - Clouds: 🙋 explained
   - BPMN: 👂 heard
-  - Low-code: 🎓 known
-  - No-code: 🎓 known
-  - Metric: 🎓 known
-  - Metric abuse: 🎓 known
-  - ACID: 🎓 known
-  - CAP theorem: 🎓 known
-  - Single source of truth (SSOT): 🎓 known
+  - Low-code: 🙋 explained
+  - No-code: 🙋 explained
+  - Metric: 🙋 explained
+  - Metric abuse: 🙋 explained
+  - ACID: 🔬 researched
+  - CAP theorem: 🔬 researched
+  - Single source of truth (SSOT): 🔬 researched
 - Enterprise architecture
   - Understanding business needs: 🎓 known
   - Enterprise strategy: 🎓 known
-  - Integration with subsystems: 🎓 known
+  - Integration with subsystems: 🔬 researched
   - Enterprise vision: 🎓 known
   - Enterprise capabilities: 🎓 known
-  - Project scope: 🎓 known
+  - Project scope: 🔬 researched
   - Enterprise service bus: 🎓 known
-  - Service-oriented architecture: 🎓 known
-  - Microservices: 🎓 known
+  - Service-oriented architecture: 🔬 researched
+  - Microservices: 🔬 researched
   - Process choreography: 👂 heard
   - Service orchestration: 👂 heard
   - Data warehouse: 🎓 known
@@ -96,5 +96,5 @@
   - OLAP: 🎓 known
   - OLTP: 🎓 known
   - Conways Law: 🎓 known
-  - Quality assurance: 🎓 known
+  - Quality assurance: 🔬 researched
   - Engineering Hygiene: 🎓 known

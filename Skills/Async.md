@@ -2,83 +2,83 @@
 
 - Theory
   - Event loop: 🔬 researched
-  - try..catch: 🙋 explained
-  - Non-blocking: 🙋 explained
-  - Async I/O: 🙋 explained
-  - Thread pool: 👂 heard
+  - try..catch: 🔬 researched
+  - Non-blocking: 🔬 researched
+  - Async I/O: 🔬 researched
+  - Thread pool: 🔬 researched
   - Pattern Reactor: 🔬 researched
-  - CAS operations: 👂 heard
+  - CAS operations: 🔬 researched
   - epoll: 🎓 known
   - kqueue: 🎓 known
-  - Completion ports: 👂 heard
-  - Event ports: 👂 heard
-  - libuv: 🙋 explained
-  - Race conditions: 🎓 known
+  - Completion ports: 🔬 researched
+  - Event ports: 🔬 researched
+  - libuv: 🔬 researched
+  - Race conditions: 🔬 researched
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🔬 researched
   - Actor Model: 🎓 known
-  - Thread: 🖐 used
-  - Process: 🎓 known
+  - Thread: 🔬 researched
+  - Process: 🔬 researched
 - Async contracts
-  - Callbacks: 🙋 explained
-  - Callback-last-error-first: 🙋 explained
-  - Thenable: 👂 heard
-  - Promise: 🙋 explained
-  - Async/await: 🙋 explained
-  - Future: 👂 heard
-  - Deferred: 👂 heard
-  - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
-  - Event: 🙋 explained
+  - Callbacks: 🔬 researched
+  - Callback-last-error-first: 🔬 researched
+  - Thenable: 🔬 researched
+  - Promise: 🔬 researched
+  - Async/await: 🔬 researched
+  - Future: 🎓 known
+  - Deferred: 🎓 known
+  - Sync generator: 🔬 researched
+  - Async Generator: 🔬 researched
+  - Async Iterator: 🔬 researched
+  - Event: 🔬 researched
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
-  - Signal: 🎓 known
-  - Stream: 🖐: 🖐️ used
-  - Chain of responsibility: 👂 heard
-  - Middleware: 🙋 explained
-  - Locks: 👂 heard
+  - Signal: 🚀 constructed
+  - Stream: 🔬 researched
+  - Chain of responsibility: 🔬 researched
+  - Middleware: 🔬 researched
+  - Locks: 🎓 known
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
+  - Callbacks compose: 🎓 known
+  - Async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
   - Observable/Observer: 🙋 explained
-  - Readable: 🎓 known
-  - Writable: 🎓 known
-  - Transform: 🎓 known
-  - Async Pool: 🎓 known
-  - Async Queue: 🎓 known
-  - Async Collector: 👂 heard
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
-  - Spin Lock: 👂 heard
+  - Readable: 🔬 researched
+  - Writable: 🔬 researched
+  - Transform: 🔬 researched
+  - Async Pool: 🔬 researched
+  - Async Queue: 🔬 researched
+  - Async Collector: 🎓 known
+  - Semaphore: 🚀 constructed
+  - Mutex: 🚀 constructed
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
-  - Timers: 🙋 explained
-  - setImmediate: 🎓 known
-  - nextTick: 🎓 known
-  - AbortController: 🖐 used
-  - AbortSignal: 👂 heard
-  - Promise unhandled rejection: 🙋 explained
-  - Promise double resolve: 🙋 explained
-  - Atomics: 👂 heard
-  - High resolution clock: 👂 heard
-  - Callback hell: 🙋 explained
-  - Promise hell: 🙋 explained
-  - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐 used
-  - Better stack traces with return await: 👂 heard
-  - JSON: streaming serialization: 👂 heard
-  - AsyncLocalStorage: 👂 heard
-  - AsyncResource: 👂 heard
+  - Timers: 🖐: 🖐️ used
+  - setImmediate: 🖐: 🖐️ used
+  - nextTick: 🖐: 🖐️ used
+  - AbortController: 🖐: 🖐️ used
+  - AbortSignal: 🖐: 🖐️ used
+  - Promise unhandled rejection: 🔬 researched
+  - Promise double resolve: 🔬 researched
+  - Atomics: 🚀 constructed
+  - High resolution clock: 🎓 known
+  - Callback hell: 🔬 researched
+  - Promise hell: 🔬 researched
+  - ref() and unref(): 🎓 known
+  - Error handling in async code: 🔬 researched
+  - Better stack traces with return await: 🎓 known
+  - JSON: streaming serialization: 🔬 researched
+  - AsyncLocalStorage: 🔬 researched
+  - AsyncResource: 🔬 researched
 - Techniques
   - async.js library: 👂 heard
-  - RxJS library: 👂 heard
+  - RxJS library: 🖐: 🖐️ used
   - Async composition: 👂 heard
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained
@@ -88,4 +88,3 @@
   - IPC: 👂 heard
   - Channel API: 👂 heard
   - Revealing Constructor: 👂 heard
-
