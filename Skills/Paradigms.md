@@ -27,42 +27,42 @@
   - Anemic domain model: 🎓 known
   - Class composition: 🎓 known
 - OOP basics
-  - Constructor: 🎓 known
-  - Operator `new`: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
-  - Encapsulation: 🎓 known
-  - Hidden class: 🎓 known
-  - Object form: 🎓 known
-  - Instance: 🎓 known
-  - Introspection: 🎓 known
-  - Reflection: 🎓 known
-  - The diamond problem: 🎓 known
+  - Constructor: 🔬 researched
+  - Operator `new`: 🔬 researched
+  - Static method: 🔬 researched
+  - Method: 🔬 researched
+  - Async method: 🔬 researched
+  - Getters, Setters: 🔬 researched
+  - Public fields: 🔬 researched
+  - Private fields: 🔬 researched
+  - Field declarations: 🔬 researched
+  - Inheritance: 🔬 researched
+  - Parent class: 🔬 researched
+  - Polymorphism: 🔬 researched
+  - Abstract class: 🔬 researched
+  - Interface: 🔬 researched
+  - Encapsulation: 🔬 researched
+  - Hidden class: 🔬 researched
+  - Object form: 🔬 researched
+  - Instance: 🔬 researched
+  - Introspection: 🔬 researched
+  - Reflection: 🔬 researched
+  - The diamond problem: 🔬 researched
 - GRASP
-  - Information expert: 🎓 known
-  - Creator: 🎓 known
-  - Controller: 🎓 known
-  - Indirection: 🎓 known
-  - Low coupling: 🎓 known
-  - High cohesion: 🎓 known
-  - Protected variations: 🎓 known
-  - Pure fabrication: 🎓 known
+  - Information expert: 🔬 researched
+  - Creator: 🔬 researched
+  - Controller: 🔬 researched
+  - Indirection: 🔬 researched
+  - Low coupling: 🔬 researched
+  - High cohesion: 🔬 researched
+  - Protected variations: 🔬 researched
+  - Pure fabrication: 🔬 researched
 - SOLID
-  - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP): 🎓 known
-  - Interface segregation principle (ISP): 🎓 known
-  - Dependency inversion principle (DIP): 🎓 known
+  - Single-responsibility principle (SRP): 🔬 researched
+  - Open–closed principle (OCP): 🔬 researched
+  - Liskov substitution principle (LSP): 🔬 researched
+  - Interface segregation principle (ISP): 🔬 researched
+  - Dependency inversion principle (DIP): 🔬 researched
 - Patterns
   - Singleton: 🚀 constructed
   - Factory Method: 🔬 researched
